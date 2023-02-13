@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="https://cyclicmedia.biz">Brand Visibility Facilitator</a>, <a href="https://cryptoautoprofits.com/auto-profits/">Cyrpto Auto Profits Coach</a>, <a href="https://www.facebook.com/photo/?fbid=10161128300321967&set=a.429029431966">Cyber Security Professional</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://www.facebook.com/photo/?fbid=10161128300321967&set=a.429029431966">Cyber Security Professional</a>, <a href="https://cryptoautoprofits.com/auto-profits/">Cyrpto Auto Profits Coach</a>, <a href="https://cyclicmedia.biz">Brand Visibility Facilitator</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
