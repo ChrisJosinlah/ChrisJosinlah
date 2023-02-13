@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chris! <br/><a href="https://www.facebook.com/photo/?fbid=10161128300321967&set=a.429029431966">Cyber Security Professional</a>, <a href="https://cryptoautoprofits.com/auto-profits/">Cyrpto Auto Profits Coach</a>, <a href="https://cyclicmedia.biz">Brand Visibility Facilitator</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://www.facebook.com/photo/?fbid=10161128300321967&set=a.429029431966">Cybersecurity Professional</a>, <a href="https://cryptoautoprofits.com/auto-profits/">Cyrpto Auto Profits Coach</a>, <a href="https://cyclicmedia.biz">Brand Visibility Facilitator</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
